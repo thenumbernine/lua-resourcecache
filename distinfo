@@ -1,0 +1,9 @@
+name = "resourcecache"
+files = {
+	["README"] = "resourcecache/README",
+	["resourcecache.lua"] = "resourcecache/resourcecache.lua",
+	["texturecache.lua"] = "resourcecache/texturecache.lua",
+}
+deps = {
+	"ext",
+}
