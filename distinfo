@@ -1,8 +1,13 @@
+--------------------------------------------
+-- generated with dist/build-distinfo.rua --
+--------------------------------------------
+
 name = "resourcecache"
 files = {
-	["README"] = "resourcecache/README",
-	["resourcecache.lua"] = "resourcecache/resourcecache.lua",
-	["texturecache.lua"] = "resourcecache/texturecache.lua",
+	"README",
+	"distinfo",
+	"resourcecache.lua",
+	"texturecache.lua",
 }
 deps = {
 	"ext",
